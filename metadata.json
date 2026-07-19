@@ -1,0 +1,6 @@
+{
+  "name": "NRM MCQ Testing Board",
+  "description": "A high-performance MCQ Practice and Timed Mock Exam Board featuring a 5,000 question bank and an integrated Google Gemini live questions generator for UGC-NET and Rural Management exam preparation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
